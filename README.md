@@ -8,6 +8,8 @@
 ## Uygulamanın Amacı
 Oyuncunun ekranda beliren topları sağda ve solda yer alan boşluklardan değil, üstte bulunan boşluktan geçirerek ekranda top kalmamasını sağlamaktır.
 
+Oyuncunun isteğine göre oyuna "Backup" ya da "Restore" işlemi yapılır. Bunun doğrultusunda veriler JSON formatında sha256 ile şifrelenerek saklanır.
+
 <img src="PongGamePics/pic1.PNG" width="500" height="300">
 <img src="PongGamePics/pic3.PNG" width="500" height="300"> 
 <img src="PongGamePics/pic2.PNG" width="500" height="300">
